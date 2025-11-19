@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Projects/vs-arduino"
+		},
+		{
+			"name": "Chime",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
